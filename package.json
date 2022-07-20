@@ -1,5 +1,5 @@
 {
-  "name": "prototyped",
+  "name": "prototypedjs",
   "version": "0.0.1",
   "description": "Build UIs without worrying about APIs existing. Works great with redux.",
   "main": "dist/prototyped.js",
