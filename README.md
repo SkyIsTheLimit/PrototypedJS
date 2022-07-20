@@ -5,13 +5,13 @@ A library to create mock APIs for UI prototypes.
 ## Installing
 
 ```bash
-npm install prototyped
+npm install @prototypedjs/core
 ```
 
 OR
 
 ```bash
-yarn add prototyped
+yarn add @prototypedjs/core
 ```
 
 ## Usage
