@@ -19,7 +19,7 @@ yarn add @prototypedjs/core
 ### Initializing
 
 ```ts
-import { createApi } from 'prototyped';
+import { createApi } from '@prototypedjs/core';
 
 interface User {
   id: string;
