@@ -1,4 +1,4 @@
-# Prototyped [![Node.js CI](https://github.com/SkyIsTheLimit/PrototypedJS/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyIsTheLimit/PrototypedJS/actions/workflows/ci.yml)
+# Prototyped [![Node.js CI](https://github.com/SkyIsTheLimit/PrototypedJS/actions/workflows/ci.yml/badge.svg)](https://github.com/SkyIsTheLimit/PrototypedJS/actions/workflows/ci.yml) [![Publishing to NPM](https://github.com/SkyIsTheLimit/PrototypedJS/actions/workflows/publish.yml/badge.svg)](https://github.com/SkyIsTheLimit/PrototypedJS/actions/workflows/publish.yml)
 
 A library to create mock APIs for UI prototypes.
 
